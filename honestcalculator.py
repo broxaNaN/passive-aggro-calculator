@@ -1,6 +1,5 @@
 # Honest calculator project from https://hyperskill.org.
 
-from ast import Index
 import messages
 import functions
 import variables
